@@ -112,3 +112,8 @@ Durante a execução, o sistema realiza automaticamente as seguintes etapas:
 # 👥 Autores
 
 Trabalho desenvolvido para a disciplina de **Inteligência Artificial**.
+KADSON RODRIGUES DE SOUSA - 567988
+LARISSA MACIEL DA SILVA - 568393
+SANDY ALMIR BONFIM - 566604
+PATRÍCIA FREIRE SONGO - 571421
+
